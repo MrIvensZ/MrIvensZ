@@ -49,9 +49,9 @@
 ### 🍽️ [Foodgram](https://github.com/MrIvensZ/foodgram)
 *Платформа для публикации рецептов с системой подписок*  
 **Стек:** Django, DRF, PostgreSQL, Docker
-### 🎬 [Movie_bot](Movie_bot)
+### 🎬 [Movie_bot](https://github.com/MrIvensZ/Movie_bot)
 *Telegram-бот для хранения информации о фильмах*  
 **Стек:** Python, pyTelegramBotApi, SQLite
-### 📝 [Order](Order)
+### 📝 [Order](https://github.com/MrIvensZ/Order)
 *Сервис для бронирования столиков в заведении*
 **Стек:** Python, Django, SQLite
